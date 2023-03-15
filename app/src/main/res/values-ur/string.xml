@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Localization</string>
+    <string name="welcome">خوش آمدید</string>
+    <string name="button">شروع کریں</string>
+    <string name="community">ہماری ایپ میں خوش آمدید! آپ کو ہماری کمیونٹی میں شامل ہونے پر ہمیں خوشی ہے۔.</string>
+    <string name="Urdu">اردو</string>
+</resources>

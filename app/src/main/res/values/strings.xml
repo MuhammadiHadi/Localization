@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Localization</string>
+    <string name="welcome">Welcome!</string>
+    <string name="button">Start</string>
+    <string name="community">Welcome to our app! We\'re thrilled to have you join our community.</string>
+    <string name="Urdu">Urdu</string>
+</resources>
